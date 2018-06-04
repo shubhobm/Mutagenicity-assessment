@@ -1,0 +1,83 @@
+Dropped Indices
+
+Constants: 65
+
+ASA+, ASA-, ASA_P, a_acid, a_base, a_nB, a_nI, a_nP,
+b_triple, 
+CASA+, CASA-, chiral, chiral_u,
+DASA, DCASA, dipole, dipoleX, dipoleY, dipoleZ,
+E_rele, E_rnb, E_rsol, E_rvdw, E_stb,
+FASA+, FASA-, FASA_H, FASA_P, FCASA+, FCASA-, FCharge,
+glob,
+h_log_dbo,
+lip_druglike, lip_violation,
+nmol,
+opr_leadlike,
+PC+, PC-, PEOE_VSA+4, pmiZ,
+Q_PC+, Q_PC-, Q_RPC+, Q_RPC-, Q_VSA_FHYD, Q_VSA_FNEG, 
+Q_VSA_FPNEG, Q_VSA_FPOL, Q_VSA_FPOS, Q_VSA_FPPOS,
+Q_VSA_NEG, Q_VSA_PNEG, Q_VSA_POL, Q_VSA_PPOS, 
+RPC+, RPC-,
+std_dim3, 
+vsa_acid, vsa_base, vsurf_Wp4, vsurf_Wp5, vsurf_Wp6, vsurf_Wp7, vsurf_Wp8
+
+
+
+Missing Data (All Cases): 25
+
+pro_app_charge, pro_asa_hph, pro_asa_hyd, pro_asa_vdw, pro_coeff_280,
+pro_coeff_diff, pro_coeff_fric, pro_debye, pro_dipole_moment,
+pro_eccen, pro_helicity, pro_henry, pro_hyd_moment, pro_mass,
+pro_mobility, pro_net_charge, pro_pI_3D, pro_pI_seq, pro_r_gyr,
+pro_r_solv, pro_sed_const, pro_volume, pro_zdipole, pro_zeta, pro_zquadrupole
+
+
+Missing Data (some cases): 21
+
+		     mean           sd          IQR            0%           25%           50%           75%         100%  n NA
+AM1_dipole   3.289608e+00 2.020329e+00 2.195426e+00  3.424821e-01  1.978535e+00  2.913105e+00  4.173961e+00     14.57430 94  1
+AM1_E       -4.724392e+04 9.852238e+03 1.424462e+04 -7.000431e+04 -5.393503e+04 -4.631086e+04 -3.969042e+04 -27922.35500 94  1
+AM1_Eele    -2.096479e+05 6.232855e+04 1.091375e+05 -3.538657e+05 -2.629499e+05 -2.174065e+05 -1.538124e+05 -89545.19500 94  1
+AM1_HF       5.102685e+02 1.698532e+02 2.079674e+02  7.895926e+01  4.338561e+02  5.299732e+02  6.418235e+02    893.16821 94  1
+AM1_HOMO    -9.917617e+00 7.570337e-01 8.296149e-01 -1.244117e+01 -1.030132e+01 -9.745240e+00 -9.471708e+00     -7.81644 94  1
+AM1_IP       1.014025e+01 8.791890e-01 1.340837e+00  7.816440e+00  9.471708e+00  1.004981e+01  1.081255e+01     12.02849 94  1
+AM1_LUMO    -4.585879e+00 1.747931e+00 3.333000e+00 -7.396770e+00 -6.460102e+00 -3.937180e+00 -3.127103e+00     -1.59719 94  1
+MNDO_dipole  3.834005e+00 2.634667e+00 2.930760e+00  0.000000e+00  2.126654e+00  3.605811e+00  5.057415e+00     17.00553 94  1
+MNDO_E      -4.736722e+04 9.784421e+03 1.157185e+04 -6.971246e+04 -5.403010e+04 -4.691536e+04 -4.245825e+04 -27873.77500 93  2
+MNDO_Eele   -2.133374e+05 6.163121e+04 9.557703e+04 -3.559587e+05 -2.670116e+05 -2.221827e+05 -1.714346e+05 -98942.59400 93  2
+MNDO_HF      5.166241e+02 1.674126e+02 2.326273e+02  9.657985e+01  4.245276e+02  5.207325e+02  6.571549e+02    955.37299 93  2
+MNDO_HOMO   -9.464501e+00 6.646124e-01 7.924099e-01 -1.079575e+01 -9.834140e+00 -9.394730e+00 -9.041730e+00     -7.62744 93  2
+MNDO_IP      1.003537e+01 9.583094e-01 1.306350e+00  7.627440e+00  9.306360e+00  1.034897e+01  1.061271e+01     12.31774 93  2
+MNDO_LUMO   -4.451268e+00 1.764417e+00 3.326160e+00 -7.586660e+00 -6.229630e+00 -4.003790e+00 -2.903470e+00     -1.23262 93  2
+PM3_dipole   3.912388e+00 2.163311e+00 2.321634e+00  1.204160e-02  2.580974e+00  3.610681e+00  4.902608e+00     10.75622 94  1
+PM3_E       -4.239226e+04 8.867857e+03 1.138703e+04 -6.300803e+04 -4.733898e+04 -4.147197e+04 -3.595195e+04 -25146.51200 94  1
+PM3_Eele    -2.060891e+05 6.088934e+04 1.080543e+05 -3.470428e+05 -2.580337e+05 -2.099526e+05 -1.499794e+05 -95500.11700 94  1
+PM3_HF       5.155507e+02 1.599508e+02 1.925134e+02  1.151857e+02  4.416213e+02  5.430627e+02  6.341347e+02    960.15497 94  1
+PM3_HOMO    -9.687192e+00 5.660962e-01 6.099171e-01 -1.100569e+01 -1.000960e+01 -9.745815e+00 -9.399680e+00     -7.51447 94  1
+PM3_IP       1.011722e+01 8.465283e-01 1.049147e+00  7.514470e+00  9.662315e+00  1.013531e+01  1.071146e+01     12.35110 94  1
+PM3_LUMO    -4.797474e+00 1.695061e+00 3.068513e+00 -7.673770e+00 -6.472053e+00 -4.381785e+00 -3.403540e+00     -1.35365 94  1
+
+
+
+
+
+Correlation of 1.0: 15
+Kept:  Dropped
+
+SC4:  BC4, BC6, SC6, VC4, VC6, mutagenic
+
+HOMO:  IP
+
+ASA: ASA_H
+
+ast_fraglike: ast_fraglike_ext, ast_violation, 
+
+npr1:  npr2
+
+PEOE_PC+:  PEOE_PC-
+
+PEOE_VSA_FHYD:  PEOE_VSA_FPOL
+
+PEOE_VSA_FNEG:  PEOE_VSA_FPOS
+
+rings: opr_nring

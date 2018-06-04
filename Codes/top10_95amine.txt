@@ -1,0 +1,129 @@
+$PC1
+     Descriptor Loading
+1         E_tor    0.89
+2    vsurf_DW23   -0.45
+3     vsurf_ID4   -0.03
+4     vsurf_ID3   -0.03
+5     vsurf_HL2    0.02
+6  GCUT_SLOGP_0    0.02
+7     vsurf_ID6   -0.02
+8      vsurf_CP    0.02
+9     vsurf_ID5   -0.02
+10    vsurf_ID2   -0.02
+
+$PC2
+     Descriptor Loading
+1    vsurf_DW23   -0.87
+2         E_tor   -0.43
+3  GCUT_SLOGP_0   -0.17
+4       density    0.16
+5     vsurf_ID2    0.05
+6     vsurf_CW4    0.05
+7     vsurf_ID1    0.04
+8     vsurf_ID4    0.04
+9     vsurf_ID3    0.04
+10    vsurf_ID6    0.03
+
+$PC3
+     Descriptor Loading
+1       density   -0.94
+2  GCUT_SLOGP_0   -0.16
+3     vsurf_ID2    0.12
+4     vsurf_ID3    0.11
+5    vsurf_DW23    -0.1
+6     vsurf_ID4     0.1
+7     vsurf_ID1    0.09
+8     vsurf_IW1    0.09
+9     vsurf_ID5    0.08
+10   BCUT_SMR_2   -0.08
+
+$PC4
+     Descriptor Loading
+1  GCUT_SLOGP_0   -0.97
+2    vsurf_DW23    0.16
+3       density    0.15
+4         E_tor    0.11
+5      vsurf_CP   -0.05
+6     vsurf_HL2    0.02
+7     vsurf_ID5    0.02
+8    BCUT_SMR_2   -0.02
+9     vsurf_ID6    0.02
+10  GCUT_PEOE_0    0.01
+
+$PC5
+   Descriptor Loading
+1   vsurf_ID7    0.61
+2   vsurf_ID2    0.41
+3   vsurf_ID3    0.32
+4   vsurf_ID1    0.31
+5   vsurf_ID6    0.26
+6   vsurf_ID4    0.23
+7   vsurf_ID5     0.2
+8     density    0.19
+9   vsurf_CW4    0.15
+10  vsurf_IW1    0.13
+
+$PC6
+   Descriptor Loading
+1   vsurf_ID7    0.66
+2   vsurf_IW1   -0.45
+3   vsurf_ID3    -0.3
+4   vsurf_ID2   -0.24
+5   vsurf_HL2    0.22
+6   vsurf_ID4   -0.21
+7   vsurf_ID1    -0.2
+8   vsurf_ID5   -0.15
+9    vsurf_CP    0.15
+10    density   -0.14
+
+$PC7
+   Descriptor Loading
+1    vsurf_CP    0.82
+2   vsurf_HL2     0.5
+3   vsurf_ID7   -0.14
+4   vsurf_ID4     0.1
+5   vsurf_IW1     0.1
+6   vsurf_ID3    0.09
+7   vsurf_CW4   -0.08
+8   vsurf_ID5    0.08
+9   vsurf_ID2    0.06
+10 BCUT_SMR_2    0.06
+
+$PC8
+     Descriptor Loading
+1     vsurf_HL2    0.82
+2      vsurf_CP   -0.53
+3     vsurf_ID7   -0.15
+4     vsurf_CW4     0.1
+5     vsurf_ID6   -0.05
+6   GCUT_PEOE_0   -0.04
+7  GCUT_SLOGP_0    0.04
+8     vsurf_ID2    0.04
+9    BCUT_SMR_2    0.03
+10    vsurf_ID3    0.03
+
+$PC9
+     Descriptor Loading
+1     vsurf_CW4    0.66
+2    BCUT_SMR_2   -0.59
+3  BCUT_SLOGP_2    -0.4
+4     vsurf_ID7   -0.18
+5      vsurf_CP    0.11
+6     vsurf_IW1   -0.08
+7     vsurf_ID6   -0.06
+8       density    0.05
+9     vsurf_ID2    0.04
+10    vsurf_ID4    0.04
+
+$PC10
+     Descriptor Loading
+1     vsurf_CW4   -0.65
+2    BCUT_SMR_2   -0.56
+3  BCUT_SLOGP_2   -0.38
+4     vsurf_IW1    0.21
+5     vsurf_ID7    0.16
+6     vsurf_HL2    0.12
+7     vsurf_ID2   -0.11
+8       density    0.09
+9     vsurf_ID6    0.06
+10    vsurf_ID3   -0.06

@@ -1,0 +1,129 @@
+$PC1
+     Descriptor Loading
+1         E_ele    0.66
+2  vsurf_EWmin1   -0.46
+3  vsurf_EWmin2   -0.42
+4  vsurf_EWmin3   -0.31
+5    vsurf_DW13   -0.15
+6          E_nb     0.1
+7     vsurf_HB6    0.08
+8      vsurf_W6    0.08
+9         E_ang   -0.07
+10    vsurf_HL2    0.07
+
+$PC2
+     Descriptor Loading
+1         E_ele   -0.49
+2  vsurf_EWmin1   -0.27
+3  vsurf_EWmin2   -0.25
+4    vsurf_DW13   -0.18
+5          E_nb   -0.18
+6  vsurf_EWmin3   -0.18
+7         E_vdw   -0.16
+8         DN2Z2    0.15
+9    SlogP_VSA9    0.13
+10         ASZ2    0.11
+
+$PC3
+     Descriptor Loading
+1         E_ele    -0.4
+2  vsurf_EWmin1   -0.33
+3  vsurf_EWmin2   -0.31
+4  vsurf_EWmin3   -0.23
+5          E_nb   -0.19
+6         E_vdw   -0.18
+7         DN2Z2   -0.18
+8         E_ang    0.11
+9    vsurf_DW13    0.11
+10   GCUT_SMR_0   -0.11
+
+$PC4
+     Descriptor Loading
+1         E_vdw   -0.77
+2          E_nb   -0.51
+3         E_ele    0.29
+4  vsurf_EWmin1    0.14
+5  vsurf_EWmin2    0.13
+6    vsurf_DW13   -0.11
+7  vsurf_EWmin3    0.09
+8  GCUT_SLOGP_0    0.06
+9  BCUT_SLOGP_0    0.03
+10         AZS1    0.03
+
+$PC5
+     Descriptor Loading
+1  GCUT_SLOGP_0    0.53
+2    vsurf_DW13   -0.51
+3    SlogP_VSA9   -0.27
+4    GCUT_SMR_0    0.22
+5  BCUT_SLOGP_0    0.18
+6         E_ele   -0.15
+7    vsurf_DW23   -0.15
+8   GCUT_PEOE_0   -0.13
+9         E_ang     0.1
+10   BCUT_SMR_0    0.09
+
+$PC6
+     Descriptor Loading
+1    vsurf_DW13   -0.75
+2  GCUT_SLOGP_0   -0.43
+3    GCUT_SMR_0    -0.3
+4    SlogP_VSA9    0.12
+5  BCUT_SLOGP_0   -0.11
+6   GCUT_PEOE_0    0.11
+7  vsurf_EWmin1    0.08
+8  vsurf_EWmin2    0.07
+9    vsurf_DW23   -0.07
+10   BCUT_SMR_0   -0.07
+
+$PC7
+     Descriptor Loading
+1  GCUT_SLOGP_0   -0.51
+2   GCUT_PEOE_0   -0.41
+3    SlogP_VSA9   -0.27
+4    GCUT_SMR_0     0.2
+5          ANZ1   -0.18
+6         E_sol    0.13
+7       density   -0.13
+8         DN2Z3   -0.12
+9         E_ang    0.12
+10         ANZ2   -0.12
+
+$PC8
+     Descriptor Loading
+1         E_ang   -0.78
+2    SlogP_VSA9    -0.2
+3    GCUT_SMR_0    0.19
+4  GCUT_SLOGP_0   -0.15
+5   GCUT_PEOE_0    0.15
+6         E_ele   -0.15
+7          ASV2   -0.15
+8          AZS1    0.11
+9          ANS1    0.09
+10    vsurf_ID8   -0.09
+
+$PC9
+     Descriptor Loading
+1    GCUT_SMR_0    0.44
+2  GCUT_SLOGP_0   -0.37
+3         DN2Z2    0.25
+4          ANZ1    0.22
+5  GCUT_SLOGP_2    0.19
+6  BCUT_SLOGP_0    0.18
+7          ANZ2    0.18
+8         E_ang    0.17
+9    GCUT_SMR_2    0.17
+10   SlogP_VSA9    0.17
+
+$PC10
+     Descriptor Loading
+1    SlogP_VSA9   -0.47
+2   GCUT_PEOE_0    0.31
+3  GCUT_SLOGP_0   -0.23
+4    GCUT_SMR_0   -0.22
+5         E_sol   -0.21
+6         E_ang    0.21
+7    vsurf_DW13    0.15
+8            DM    0.14
+9          bpol   -0.14
+10        DN2Z2   -0.14
